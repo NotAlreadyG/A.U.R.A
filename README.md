@@ -4,7 +4,7 @@
 
 # Autonomous Universal Resource Assistant
 
-This contains everything you need to run your app locally.
+AURA, the Autonomous Universal Routine Assistant, is a comprehensive desktop application designed to bring order and efficiency to your daily life. It serves as an all-in-one planner, allowing you to manage tasks, track long-term goals, organize your academic syllabus, and schedule exams with timely reminders. At the heart of the application is Aura, a sophisticated conversational AI powered by the Gemini API. You can interact with Aura using voice or text to effortlessly add, update, or query your schedule and goals. This seamless integration makes AURA an intelligent and proactive partner in managing your academic and personal life. [Status- Beta]
 
 ## Run Locally
 
